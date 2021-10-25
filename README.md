@@ -1,4 +1,4 @@
-### Hi, I'm Gabriel
+### Hi, earthling. I'm Gabriel
 
 - 🌩️ I’m currently working on Front-end Development
 - 🌙 I’m currently studying: JavaScript and Python
