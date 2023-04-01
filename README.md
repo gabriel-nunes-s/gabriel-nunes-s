@@ -5,7 +5,7 @@
 - 👨‍💻 I’m looking for help with APIs 
 - ⚡ Fun fact: gamer as a pastime activity
 
-<hr height=0.5px/>
+##
 
 <div align="center" id="stats">
   <a href="https://github.com/death-simphony">
@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=death-simphony&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<hr height=0.5px/>
+##
 
 **Languages and Tools:**
 <div style="display: inline_block" id="languages"><br>
@@ -25,12 +25,12 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-<hr height=0.5px/>
+##
   
 <div>
   <a href="https://www.linkedin.com/in/gabriel-n-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:gn.info.santos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
 </div>
   
-<hr height=0.5px/>
+##
   
