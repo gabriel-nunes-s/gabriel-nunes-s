@@ -3,7 +3,7 @@
 - 🌩️ I’m currently working on my Final Paper usign language Python
 - 🌙 I’m currently studying: Java, HTML5/CSS3 and Python
 - 👨‍💻 I’m looking for help with APIs 
-- ⚡ Gamer as a pastime activity
+- ⚡ Fun fact: gamer as a pastime activity
 
 <hr height=0.5px/>
 
@@ -22,7 +22,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 <hr height=0.5px/>
