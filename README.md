@@ -6,7 +6,7 @@
 - ⚡ Fun fact: gamer as a pastime activity
 <hr>
 <div align="center" id="stats">
-  <a href="https://github.com/gabriel-nunes-s"/>
+  <a href="https://github.com/gabriel-nunes-s"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-nunes-s&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-nunes-s&layout=compact&langs_count=7&theme=dark"/>
 </div>
