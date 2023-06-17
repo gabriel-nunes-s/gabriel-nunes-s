@@ -1,6 +1,6 @@
 ### Hi, earthling. I'm Gabriel
 
-- 🌩️ I’m currently working on my Final Paper usign language Python
+- 🌩️ I’m currently working on my Final Paper usign language Java
 - 🌙 I’m currently studying: Java, HTML5/CSS3 and Python
 - 👨‍💻 I’m looking for help with APIs 
 - ⚡ Fun fact: gamer as a pastime activity
