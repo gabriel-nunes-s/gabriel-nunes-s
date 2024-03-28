@@ -1,8 +1,7 @@
 ### Hi, earthling. I'm Gabriel
 
-- 🌩️ I’m currently working on my Final Paper usign language Java
-- 🌙 I’m currently studying: Java, HTML5/CSS3 and Python
-- 👨‍💻 I’m looking for help with APIs 
+- 🌩️ I’m currently working on REST APIs development using Kotlin as backend!
+- 🌙 I’m currently studying: Java, Kotlin, Spring and Web Services
 - ⚡ Fun fact: gamer as a pastime activity
 <hr>
 <div align="center" id="stats">
@@ -24,6 +23,6 @@
 <h3><strong>Social:</strong></h3>
 <div>
   <a href="https://www.linkedin.com/in/gabriel-n-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:nunezdozzantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:gn.info.santos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <hr>
